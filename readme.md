@@ -20,10 +20,10 @@ When a new file is added, it is automatically processed and displayed in the GUI
 
 The config.properties file is used to configure the project. You can change the following settings in the file:
 
-# Directory path
+## Directory path
 input.directory=/path/to/your/directory
 
-# Directory monitoring interval (in milliseconds)
+## Directory monitoring interval (in milliseconds)
 monitor.interval=5000
 
 ### 1️⃣ **Clone the Repository**
